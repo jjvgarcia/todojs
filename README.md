@@ -1,8 +1,8 @@
 # todojs
 
-##JavaScript by Example
+## JavaScript by Example
 
-###Modern JavaScript programming with real world web apps
+### Modern JavaScript programming with real world web apps
 
-####Dani Akash S
+#### Dani Akash S
 
